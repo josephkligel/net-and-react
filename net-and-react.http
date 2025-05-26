@@ -1,0 +1,6 @@
+@net_and_react_HostAddress = http://localhost:5036
+
+GET {{net_and_react_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
