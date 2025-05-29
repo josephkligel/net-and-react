@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D9cULaFl6KA=",
+  "dgSpecHash": "b31Xl0tZJMM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\c0021\\source\\repos\\net-and-react\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\c0021\\source\\repos\\net-and-react\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\c0021\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\c0021\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",

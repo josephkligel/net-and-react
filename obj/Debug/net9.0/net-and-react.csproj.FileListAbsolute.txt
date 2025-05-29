@@ -1,0 +1,8 @@
+C:\Users\c0021\source\repos\net-and-react\obj\Debug\net9.0\net-and-react.csproj.AssemblyReference.cache
+C:\Users\c0021\source\repos\net-and-react\obj\Debug\net9.0\net-and-react.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c0021\source\repos\net-and-react\obj\Debug\net9.0\net-and-react.AssemblyInfoInputs.cache
+C:\Users\c0021\source\repos\net-and-react\obj\Debug\net9.0\net-and-react.AssemblyInfo.cs
+C:\Users\c0021\source\repos\net-and-react\obj\Debug\net9.0\net-and-react.csproj.CoreCompileInputs.cache
+C:\Users\c0021\source\repos\net-and-react\obj\Debug\net9.0\net-and-react.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\c0021\source\repos\net-and-react\obj\Debug\net9.0\net-and-react.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\c0021\source\repos\net-and-react\obj\Debug\net9.0\net-and-react.sourcelink.json

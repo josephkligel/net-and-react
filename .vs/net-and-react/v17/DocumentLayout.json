@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\c0021\\source\\repos\\net-and-react\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD32B9E-922B-4387-958C-04F0964C9ACC}|API\\API.csproj|c:\\users\\c0021\\source\\repos\\net-and-react\\api\\controllers\\activitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD32B9E-922B-4387-958C-04F0964C9ACC}|API\\API.csproj|solutionrelative:api\\controllers\\activitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActivitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\c0021\\source\\repos\\net-and-react\\API\\Controllers\\ActivitiesController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ActivitiesController.cs",
+              "ToolTip": "C:\\Users\\c0021\\source\\repos\\net-and-react\\API\\Controllers\\ActivitiesController.cs",
+              "RelativeToolTip": "API\\Controllers\\ActivitiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:12:23.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
