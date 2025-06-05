@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "b31Xl0tZJMM=",
+  "dgSpecHash": "ZYU87wKjiEw=",
   "success": true,
   "projectFilePath": "C:\\Users\\c0021\\source\\repos\\net-and-react\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\c0021\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\c0021\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
+    "C:\\Users\\c0021\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\c0021\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
     "C:\\Users\\c0021\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\c0021\\.nuget\\packages\\microsoft.build.framework\\17.8.3\\microsoft.build.framework.17.8.3.nupkg.sha512",

@@ -150,3 +150,5 @@ C:\Users\c0021\source\repos\net-and-react\API\obj\Debug\net9.0\refint\API.dll
 C:\Users\c0021\source\repos\net-and-react\API\obj\Debug\net9.0\API.pdb
 C:\Users\c0021\source\repos\net-and-react\API\obj\Debug\net9.0\API.genruntimeconfig.cache
 C:\Users\c0021\source\repos\net-and-react\API\obj\Debug\net9.0\ref\API.dll
+C:\Users\c0021\source\repos\net-and-react\API\bin\Debug\net9.0\MediatR.dll
+C:\Users\c0021\source\repos\net-and-react\API\bin\Debug\net9.0\MediatR.Contracts.dll
