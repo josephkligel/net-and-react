@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1YESLARD1jE=",
+  "dgSpecHash": "9WT6rBBUavw=",
   "success": true,
-  "projectFilePath": "c:\\Users\\jkligel\\source\\repos\\net-and-react\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\jkligel\\source\\repos\\net-and-react\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jkligel\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\jkligel\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",

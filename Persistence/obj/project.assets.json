@@ -1161,8 +1161,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "c:\\Users\\jkligel\\source\\repos\\net-and-react\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\Users\\jkligel\\source\\repos\\net-and-react\\Domain\\Domain.csproj"
+            "C:\\Users\\jkligel\\source\\repos\\net-and-react\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\jkligel\\source\\repos\\net-and-react\\Domain\\Domain.csproj"
             }
           }
         }
