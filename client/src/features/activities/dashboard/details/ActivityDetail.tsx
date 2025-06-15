@@ -35,7 +35,7 @@ export default function ActivityDetail() {
       <CardActions>
         <Button
           component={Link}
-          to={`/activities/${activity.id}`}
+          to={`/manage/${activity.id}`}
           color="primary"
         >
           Edit
