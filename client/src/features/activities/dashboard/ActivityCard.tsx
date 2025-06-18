@@ -11,7 +11,7 @@ import {
   Typography,
 } from "@mui/material";
 import { Link } from "react-router";
-import {format} from 'date-fns';
+import { formatDate } from "../../../lib/util/util";
 
 type Props = {
   activity: Activity;
@@ -52,7 +52,7 @@ export default function ActivityCard({ activity }: Props) {
           <Box display='flex' flexGrow={0} alignItems='center'>
             <AccessTime sx={{mr: 1}} />
             <Typography variant="body2" noWrap>
-              {format(activity.date, 'dd MMM yyyy h:mm a')}
+              {formatDate(activity.date)}
             </Typography>
           </Box>
           <Place sx={{ml: 1, mr: 3}}/>
