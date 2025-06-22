@@ -1,5 +1,7 @@
 using Application.Activities.Queries;
+using Application.Activities.Validators;
 using Application.Core;
+using FluentValidation;
 using Microsoft.EntityFrameworkCore;
 using Persistence;
 
@@ -14,9 +16,13 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 
 builder.Services.AddCors();
 builder.Services.AddMediatR(x =>
-    x.RegisterServicesFromAssemblyContaining<GetActivityList.Handler>()
+    {
+        x.RegisterServicesFromAssemblyContaining<GetActivityList.Handler>();
+        x.AddOpenBehavior(typeof(ValidationBehavior<,>));
+    }
 );
 builder.Services.AddAutoMapper(typeof(MappingProfiles).Assembly);
+builder.Services.AddValidatorsFromAssemblyContaining<CreateActivityValidator>();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 
