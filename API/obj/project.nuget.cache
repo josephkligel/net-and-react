@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XECzBLCUxBg=",
+  "dgSpecHash": "vGfItK8hN9c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\c0021\\source\\repos\\net-and-react\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\c0021\\source\\repos\\net-and-react\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\c0021\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\c0021\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
