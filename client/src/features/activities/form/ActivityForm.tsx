@@ -6,6 +6,9 @@ import { useEffect } from "react";
 import {zodResolver} from '@hookform/resolvers/zod'
 import { activitySchema, type ActivitySchema } from "../../../lib/schemas/activitySchema";
 import TextInput from "../../../app/shared/components/TextInput";
+import { categoryOptions } from "./categoryOptions";
+import SelectInput from "../../../app/shared/components/SelectInput";
+import DateTimeInput from "../../../app/shared/components/DateTimeInput";
 
 export default function ActivityForm() {
   const {reset, control, handleSubmit} = useForm<ActivitySchema>({
@@ -46,8 +49,13 @@ export default function ActivityForm() {
           multiline
           rows={3}
         />
-        <TextInput label="Category" control={control} name="category" />
-        <TextInput
+        <SelectInput
+          label="Category"
+          control={control}
+          name="category"
+          items={categoryOptions}
+        />
+        <DateTimeInput
           label="Date"
           control={control}
           name="date"
